@@ -1,0 +1,3 @@
+name: SkyblockCross
+version: '${project.version}'
+main: me.hiencao.skyblockcross.SkyblockCross

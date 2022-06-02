@@ -1,0 +1,10 @@
+redis_settings:
+  host: "Abc"
+  port: <port>
+  password: <pass>
+  use_ssl: false
+server:
+  spawn: 'skySpawn'
+  instances:
+    - 'abc'
+    - 'xyz'
